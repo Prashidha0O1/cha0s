@@ -46,9 +46,6 @@ cp .env.example .env
 npm run dev
 ```
 
-## Contributing
-
-We welcome all contributions! Whether you're fixing bugs, adding features, or just making the memes better, we want your help. Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
 
 ## License
 
@@ -63,13 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Create a mobile app
 - [ ] Add voice chat rooms
 - [ ] Integrate with more exchanges
-
-## Contact
-
-Got questions? Want to share your favorite crypto meme? Reach out to us at:
-- Email: your-email@example.com
-- Twitter: [@CryptoChaos](https://twitter.com/cryptochaos)
-- Discord: [Join our server](https://discord.gg/cryptochaos)
 
 ---
 
